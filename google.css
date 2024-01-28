@@ -1,0 +1,49 @@
+/* Google */
+.giris {
+    background-color: rgb(126, 119, 119);
+    width: 100%;
+
+    font-size: 15px;
+    margin: auto;
+    
+}
+
+.alt {
+
+    position: relative;
+    float: left;
+    padding: 0%;
+
+    margin-top: 2px;
+    margin-bottom: 25px;
+    height: 120px;
+}
+
+.sol{
+    width: 41%;
+    background-color: rgb(144, 178, 192);
+    margin-right: 5px;
+}
+.orta{
+    width: 15%;
+    background-color: rgb(72, 156, 192);
+    margin-right: 5px;
+
+}
+.sag {
+    width: 43.5%;
+    background-color: rgb(11, 146, 204);
+    margin-right: 0px;
+
+}
+.clear {
+    clear: both;
+}
+.son {
+    float: left;
+    /* background-color: rgb(9, 34, 34); */
+    margin-left: 800px;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+}
